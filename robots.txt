@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rantesten.github.io/sitemap
+Sitemap: https://rantesten.github.io/app/sitemap
+Sitemap: https://rantesten.github.io/assets/sitemap
+Sitemap: https://rantesten.github.io/css/sitemap
+Sitemap: https://rantesten.github.io/includes/sitemap
+Sitemap: https://rantesten.github.io/item/sitemap
+Sitemap: https://rantesten.github.io/src/sitemap
